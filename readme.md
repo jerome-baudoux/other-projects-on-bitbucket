@@ -1,3 +1,3 @@
-All my projects are available at this address: 
+All my old public projects are available at this address: 
 --------------
 - http://hg.jerome-baudoux.com
