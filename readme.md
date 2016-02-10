@@ -1,3 +1,3 @@
 All my old public projects are available at this address: 
 --------------
-- http://hg.jerome-baudoux.com
+- https://bitbucket.org/jerome_baudoux/
